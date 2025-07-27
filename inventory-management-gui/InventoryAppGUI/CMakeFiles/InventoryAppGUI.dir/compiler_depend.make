@@ -1723,7 +1723,6 @@ CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: mainwindow.cpp \
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/QDebug \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/QTimer \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qabstractitemmodel.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h \
@@ -1731,7 +1730,6 @@ CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: mainwindow.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic_cxx11.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qbasicatomic.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/qbasictimer.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qbytearray.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qbytearraylist.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qchar.h \
@@ -1790,7 +1788,6 @@ CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: mainwindow.cpp \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qsystemdetection.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qtcore-config.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qtextstream.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/qtimer.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qtypeinfo.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qvarlengtharray.h \
@@ -2676,8 +2673,6 @@ CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o: src/utils/Utils.cpp \
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h:
 
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qtimer.h:
-
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHBoxLayout:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qregularexpression.h:
@@ -2689,8 +2684,6 @@ CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o: src/utils/Utils.cpp \
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qdebug.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qabstractitemmodel.h:
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/QTimer:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/QDebug:
 
@@ -2869,8 +2862,6 @@ InventoryAppGUI_autogen/include/ui_mainwindow.h:
 /usr/include/c++/13/optional:
 
 /usr/include/errno.h:
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qbasictimer.h:
 
 /usr/include/c++/13/bits/functional_hash.h:
 

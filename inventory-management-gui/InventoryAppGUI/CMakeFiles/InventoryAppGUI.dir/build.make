@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI
+CMAKE_SOURCE_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI
+CMAKE_BINARY_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI
 
 # Include any dependencies generated for this target.
 include CMakeFiles/InventoryAppGUI.dir/depend.make
@@ -72,93 +72,93 @@ include CMakeFiles/InventoryAppGUI.dir/flags.make
 InventoryAppGUI_autogen/timestamp: /usr/lib/qt5/bin/moc
 InventoryAppGUI_autogen/timestamp: /usr/lib/qt5/bin/uic
 InventoryAppGUI_autogen/timestamp: CMakeFiles/InventoryAppGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target InventoryAppGUI"
-	/usr/bin/cmake -E cmake_autogen /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/AutogenInfo.json ""
-	/usr/bin/cmake -E touch /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target InventoryAppGUI"
+	/usr/bin/cmake -E cmake_autogen /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E touch /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/timestamp
 
 CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o: CMakeFiles/InventoryAppGUI.dir/flags.make
 CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o: InventoryAppGUI_autogen/mocs_compilation.cpp
 CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o: CMakeFiles/InventoryAppGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp
 
 CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp > CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp > CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp -o CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp -o CMakeFiles/InventoryAppGUI.dir/InventoryAppGUI_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/InventoryAppGUI.dir/main.cpp.o: CMakeFiles/InventoryAppGUI.dir/flags.make
 CMakeFiles/InventoryAppGUI.dir/main.cpp.o: main.cpp
 CMakeFiles/InventoryAppGUI.dir/main.cpp.o: CMakeFiles/InventoryAppGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/InventoryAppGUI.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/main.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/main.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/main.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/InventoryAppGUI.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/main.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/main.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/main.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/main.cpp
 
 CMakeFiles/InventoryAppGUI.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/InventoryAppGUI.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/main.cpp > CMakeFiles/InventoryAppGUI.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/main.cpp > CMakeFiles/InventoryAppGUI.dir/main.cpp.i
 
 CMakeFiles/InventoryAppGUI.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/InventoryAppGUI.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/main.cpp -o CMakeFiles/InventoryAppGUI.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/main.cpp -o CMakeFiles/InventoryAppGUI.dir/main.cpp.s
 
 CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: CMakeFiles/InventoryAppGUI.dir/flags.make
 CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: mainwindow.cpp
 CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: CMakeFiles/InventoryAppGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/mainwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/mainwindow.cpp
 
 CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/mainwindow.cpp > CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/mainwindow.cpp > CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.i
 
 CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/mainwindow.cpp -o CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/mainwindow.cpp -o CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.s
 
 CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o: CMakeFiles/InventoryAppGUI.dir/flags.make
 CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o: src/inventory/ItemInventaris.cpp
 CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o: CMakeFiles/InventoryAppGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp
 
 CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp > CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp > CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.i
 
 CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp -o CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp -o CMakeFiles/InventoryAppGUI.dir/src/inventory/ItemInventaris.cpp.s
 
 CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o: CMakeFiles/InventoryAppGUI.dir/flags.make
 CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o: src/utils/Utils.cpp
 CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o: CMakeFiles/InventoryAppGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp
 
 CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp > CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp > CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.i
 
 CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp -o CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp -o CMakeFiles/InventoryAppGUI.dir/src/utils/Utils.cpp.s
 
 CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o: CMakeFiles/InventoryAppGUI.dir/flags.make
 CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o: src/database/DatabaseManager.cpp
 CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o: CMakeFiles/InventoryAppGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o -MF CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o.d -o CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o -c /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp
 
 CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp > CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp > CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.i
 
 CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp -o CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp -o CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.s
 
 # Object files for target InventoryAppGUI
 InventoryAppGUI_OBJECTS = \
@@ -184,7 +184,7 @@ InventoryAppGUI: /usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.15.13
 InventoryAppGUI: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13
 InventoryAppGUI: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13
 InventoryAppGUI: CMakeFiles/InventoryAppGUI.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable InventoryAppGUI"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable InventoryAppGUI"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/InventoryAppGUI.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -196,6 +196,6 @@ CMakeFiles/InventoryAppGUI.dir/clean:
 .PHONY : CMakeFiles/InventoryAppGUI.dir/clean
 
 CMakeFiles/InventoryAppGUI.dir/depend: InventoryAppGUI_autogen/timestamp
-	cd /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/InventoryAppGUI.dir/depend
 

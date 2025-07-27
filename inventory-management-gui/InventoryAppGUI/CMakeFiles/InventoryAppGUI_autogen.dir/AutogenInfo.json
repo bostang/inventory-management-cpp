@@ -1,16 +1,16 @@
 {
-	"BUILD_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen",
-	"CMAKE_BINARY_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI",
+	"BUILD_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen",
+	"CMAKE_BINARY_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeLists.txt",
-		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/3.28.3/CMakeSystem.cmake",
+		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeLists.txt",
+		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/3.28.3/CMakeSystem.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake",
-		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake",
+		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake",
@@ -75,39 +75,39 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Sql/Qt5SqlConfig.cmake",
 		"/usr/share/cmake-3.28/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI",
-	"DEP_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI",
+	"DEP_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "InventoryAppGUI_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/mainwindow.h",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
 		],
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.h",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.h",
 			"MU",
 			"M7KQ2GL7XF/moc_DatabaseManager.cpp",
 			null
 		],
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.h",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.h",
 			"MU",
 			"QNNQQNF5NH/moc_ItemInventaris.cpp",
 			null
 		],
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/utils/Utils.h",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/utils/Utils.h",
 			"MU",
 			"VSCBVMNR7M/moc_Utils.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -125,10 +125,10 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src",
-		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory",
-		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/utils",
-		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database",
+		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src",
+		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory",
+		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/utils",
+		"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database",
 		"/usr/include/x86_64-linux-gnu/qt5",
 		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
 		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
@@ -155,41 +155,41 @@
 		"-c",
 		"/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 2,
-	"PARSE_CACHE_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/main.cpp",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/mainwindow.cpp",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/mainwindow.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp",
+			"/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/utils/Utils.cpp",
 			"MU",
 			null
 		]

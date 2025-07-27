@@ -28,7 +28,7 @@ set(PROJECT_SOURCES
         src/inventory/ItemInventaris.h
         src/utils/Utils.h
         src/database/DatabaseManager.h
-        ${TS_FILES}
+        # ${TS_FILES}
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

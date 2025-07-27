@@ -1,7 +1,7 @@
 CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o: \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.cpp \
  /usr/include/stdc-predef.h \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.h \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.h \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -256,5 +256,5 @@ CMakeFiles/InventoryAppGUI.dir/src/database/DatabaseManager.cpp.o: \
  /usr/include/pqxx/subtransaction.hxx /usr/include/pqxx/time.hxx \
  /usr/include/c++/13/chrono /usr/include/pqxx/transactor.hxx \
  /usr/include/pqxx/internal/header-post.hxx \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.h \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.h \
  /usr/include/c++/13/iostream

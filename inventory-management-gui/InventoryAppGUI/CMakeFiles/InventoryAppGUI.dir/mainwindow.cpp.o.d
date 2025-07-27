@@ -1,7 +1,7 @@
 CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/mainwindow.cpp \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/mainwindow.cpp \
  /usr/include/stdc-predef.h \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/mainwindow.h \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/mainwindow.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
@@ -286,7 +286,7 @@ CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h \
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.h \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/database/DatabaseManager.h \
  /usr/include/pqxx/pqxx /usr/include/pqxx/internal/header-pre.hxx \
  /usr/include/c++/13/version /usr/include/pqxx/internal/cxx-features.hxx \
  /usr/include/pqxx/config-public-compiler.h /usr/include/c++/13/ciso646 \
@@ -351,8 +351,8 @@ CMakeFiles/InventoryAppGUI.dir/mainwindow.cpp.o: \
  /usr/include/pqxx/subtransaction.hxx /usr/include/pqxx/time.hxx \
  /usr/include/pqxx/transactor.hxx \
  /usr/include/pqxx/internal/header-post.hxx \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.h \
- /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/include/ui_mainwindow.h \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/src/inventory/ItemInventaris.h \
+ /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/include/ui_mainwindow.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qmap.h \

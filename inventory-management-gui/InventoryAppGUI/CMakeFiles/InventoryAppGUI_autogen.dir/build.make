@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI
+CMAKE_SOURCE_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI
+CMAKE_BINARY_DIR = /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI
 
 # Utility rule file for InventoryAppGUI_autogen.
 
@@ -71,9 +71,9 @@ CMakeFiles/InventoryAppGUI_autogen: InventoryAppGUI_autogen/timestamp
 InventoryAppGUI_autogen/timestamp: /usr/lib/qt5/bin/moc
 InventoryAppGUI_autogen/timestamp: /usr/lib/qt5/bin/uic
 InventoryAppGUI_autogen/timestamp: CMakeFiles/InventoryAppGUI_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target InventoryAppGUI"
-	/usr/bin/cmake -E cmake_autogen /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/AutogenInfo.json ""
-	/usr/bin/cmake -E touch /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target InventoryAppGUI"
+	/usr/bin/cmake -E cmake_autogen /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E touch /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/InventoryAppGUI_autogen/timestamp
 
 InventoryAppGUI_autogen: CMakeFiles/InventoryAppGUI_autogen
 InventoryAppGUI_autogen: InventoryAppGUI_autogen/timestamp
@@ -89,6 +89,6 @@ CMakeFiles/InventoryAppGUI_autogen.dir/clean:
 .PHONY : CMakeFiles/InventoryAppGUI_autogen.dir/clean
 
 CMakeFiles/InventoryAppGUI_autogen.dir/depend:
-	cd /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI /home/bostang/Documents/it/MyProgrammingJourney/C++_programming/app/inventory-management-cpp/inventory-management-gui/InventoryAppGUI/CMakeFiles/InventoryAppGUI_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/InventoryAppGUI_autogen.dir/depend
 
